@@ -1,0 +1,19 @@
+2015-06-09 13:41:59,688 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bubblebee:WebApp:0.0.1-SNAPSHOT @ C:\Users\Dell7447\workspacetest\BubbleBee\pom.xml.
+2015-06-09 13:42:00,625 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BubbleBee/src/main/java
+2015-06-09 13:42:00,625 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BubbleBee/src/test/java
+2015-06-09 13:42:01,420 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bubblebee:WebApp:0.0.1-SNAPSHOT @ C:\Users\Dell7447\workspacetest\BubbleBee\pom.xml.
+2015-06-09 13:42:02,373 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-06-09 13:42:03,638 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bubblebee:WebApp:0.0.1-SNAPSHOT @ C:\Users\Dell7447\workspacetest\BubbleBee\pom.xml.
+2015-06-09 13:42:03,967 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:42:03,967 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-09 13:42:03,967 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:42:03,967 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-09 13:42:12,766 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:42:12,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-09 13:42:12,781 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:42:12,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-09 13:44:10,183 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bubblebee:WebApp:0.0.1-SNAPSHOT @ C:\Users\Dell7447\workspacetest\BubbleBee\pom.xml.
+2015-06-09 13:44:10,355 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:44:10,355 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-09 13:44:10,355 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-09 13:44:10,355 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
