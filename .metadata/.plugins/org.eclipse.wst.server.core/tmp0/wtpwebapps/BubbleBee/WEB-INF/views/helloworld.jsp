@@ -7,10 +7,26 @@
 </head>
 <body>
 	<center>
-		<h2>Hello World</h2>
-		<h2>
-			${message} ${name}
-		</h2>
+		<h2>Hello World !</h2>
+		
+		  <% String gn1 =  request.getParameter("n1");
+                int nn1 = Integer.parseInt(gn1); 
+                
+          String gn2 =  request.getParameter("n2");
+                int nn2 = Integer.parseInt(gn2); 
+          %>
+          
+          Result = 
+          <% 
+          int result =0;
+          result = nn1+nn2;  
+          out.println("="+result);
+          %>
+          <%=(nn1+nn2)%>
+        
+         
+         
+         
 	</center>
 </body>
 </html>

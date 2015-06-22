@@ -17,3 +17,359 @@
 2015-06-09 13:44:10,355 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
 2015-06-09 13:44:10,355 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-06-09 13:44:10,355 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:19:18,494 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:19:18,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:19:18,526 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:19:18,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:19:58,128 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:19:58,128 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:19:58,128 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:19:58,128 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:26:33,410 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:26:33,410 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:26:33,410 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:26:33,410 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:26:34,457 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:26:34,457 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:26:34,457 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:26:34,457 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:31:45,590 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:31:45,606 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:31:45,606 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:31:45,606 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:35:19,075 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:35:19,075 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:35:19,075 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:35:19,075 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:36:05,005 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:36:05,005 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:36:05,005 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:36:05,005 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:36:31,184 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:36:31,184 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:36:31,184 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:36:31,184 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:40:01,976 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:40:01,976 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:40:01,976 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:40:01,976 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:41:13,953 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:41:13,953 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:41:13,953 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:41:13,953 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:42:30,767 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:42:30,767 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:42:30,767 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:42:30,767 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:43:28,054 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:43:28,054 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:43:28,054 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:43:28,054 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:43:59,394 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:43:59,394 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:43:59,394 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:43:59,394 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:46:54,036 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:46:54,036 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:46:54,036 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:46:54,036 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:47:25,763 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:47:25,763 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:47:25,763 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:47:25,763 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:49:29,180 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:49:29,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:49:29,180 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:49:29,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:49:54,183 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:49:54,183 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:49:54,183 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:49:54,183 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:50:37,376 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:50:37,376 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:50:37,376 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:50:37,376 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:51:50,685 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:51:50,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:51:50,685 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:51:50,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:53:23,931 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:53:23,931 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:53:23,931 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:53:23,931 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:56:16,710 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:56:16,711 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:56:16,712 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:56:16,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:56:57,170 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:56:57,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:56:57,170 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:56:57,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:58:03,209 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:58:03,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:58:03,209 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:58:03,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 10:58:41,482 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:58:41,482 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 10:58:41,482 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 10:58:41,482 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:01:52,515 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:01:52,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:01:52,515 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:01:52,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:02:37,384 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:02:37,384 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:02:37,384 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:02:37,384 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:05:03,535 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:05:03,535 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:05:03,535 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:05:03,535 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:08:18,231 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:08:18,231 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:08:18,231 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:08:18,231 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:08:57,550 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:08:57,550 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:08:57,550 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:08:57,550 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:11:55,166 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:11:55,166 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:11:55,166 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:11:55,166 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:12:26,061 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:12:26,061 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:12:26,061 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:12:26,061 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:12:54,692 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:12:54,692 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:12:54,692 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:12:54,692 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:15:11,598 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:15:11,598 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:15:11,598 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:15:11,598 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:15:48,243 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:15:48,243 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:15:48,243 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:15:48,243 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:17:47,320 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:17:47,320 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:17:47,320 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:17:47,320 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:18:35,616 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:18:35,616 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:18:35,616 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:18:35,616 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:19:20,869 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:19:20,869 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:19:20,869 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:19:20,869 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:20:39,804 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:20:39,804 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:20:39,804 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:20:39,804 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:21:21,954 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:21:21,954 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:21:21,954 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:21:21,954 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:24:00,603 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:24:00,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:24:00,603 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:24:00,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:24:58,830 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:24:58,830 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:24:58,830 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:24:58,830 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:26:19,483 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:26:19,483 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:26:19,483 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:26:19,483 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:26:36,778 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:26:36,778 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:26:36,778 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:26:36,778 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:30:15,434 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:30:15,434 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:30:15,434 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:30:15,434 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:31:03,380 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:31:03,380 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:31:03,380 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:31:03,380 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 11:32:22,113 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:32:22,113 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 11:32:22,113 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 11:32:22,113 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 13:51:54,834 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:51:54,834 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 13:51:54,834 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:51:54,834 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 13:53:18,074 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:53:18,074 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 13:53:18,074 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:53:18,074 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 13:54:23,958 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:54:23,958 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 13:54:23,958 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:54:23,958 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 13:57:13,609 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:57:13,609 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 13:57:13,609 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:57:13,609 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 13:58:03,105 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:58:03,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 13:58:03,105 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 13:58:03,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:23:40,166 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:23:40,166 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:23:40,166 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:23:40,166 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:28:57,557 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:28:57,557 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:28:57,557 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:28:57,557 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:29:44,081 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:29:44,081 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:29:44,081 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:29:44,081 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:33:37,432 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:33:37,432 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:33:37,432 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:33:37,432 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:36:29,872 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:36:29,872 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:36:29,872 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:36:29,872 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:37:13,258 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:37:13,258 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:37:13,258 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:37:13,258 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:37:55,289 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:37:55,289 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:37:55,289 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:37:55,289 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:56:21,108 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:56:21,108 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:56:21,108 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:56:21,108 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 14:57:17,265 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:57:17,265 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 14:57:17,265 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 14:57:17,265 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:09:00,431 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:09:00,431 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:09:00,431 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:09:00,431 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:17:00,848 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:17:00,848 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:17:00,848 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:17:00,848 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:17:58,849 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:17:58,849 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:17:58,849 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:17:58,849 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:18:55,644 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:18:55,644 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:18:55,644 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:18:55,644 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:19:26,509 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:19:26,509 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:19:26,509 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:19:26,509 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:30:38,103 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:30:38,103 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:30:38,103 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:30:38,103 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:31:44,864 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:31:44,864 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:31:44,864 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:31:44,864 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:34:55,937 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:34:55,937 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:34:55,937 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:34:55,937 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 15:38:19,179 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:38:19,179 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 15:38:19,179 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 15:38:19,179 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:22:27,675 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:22:27,675 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:22:27,675 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:22:27,675 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:26:13,434 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:26:13,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:26:13,450 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:26:13,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:28:16,924 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:28:16,924 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:28:16,924 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:28:16,924 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:29:19,940 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:29:19,940 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:29:19,940 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:29:19,940 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:29:42,672 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:29:42,672 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:29:42,672 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:29:42,672 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:32:48,281 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:32:48,281 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:32:48,281 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:32:48,281 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:34:36,271 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:34:36,271 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:34:36,271 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:34:36,287 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:40:05,629 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:40:05,629 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:40:05,644 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:40:05,644 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:47:18,762 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:47:18,762 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:47:18,762 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:47:18,762 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:47:41,646 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:47:41,650 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:47:41,650 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:47:41,650 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:49:44,353 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:49:44,353 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:49:44,353 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:49:44,357 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:51:29,737 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:51:29,737 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:51:29,737 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:51:29,737 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:53:53,577 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:53:53,577 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:53:53,577 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:53:53,577 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:56:01,483 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:56:01,483 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:56:01,483 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:56:01,483 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 16:59:25,470 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:59:25,470 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 16:59:25,470 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 16:59:25,470 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 21:56:45,338 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 21:56:45,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 21:56:45,398 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 21:56:45,402 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 22:26:28,017 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 22:26:28,021 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 22:26:28,021 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 22:26:28,021 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 22:59:07,067 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 22:59:07,067 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 22:59:07,067 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 22:59:07,071 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-11 23:00:15,357 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 23:00:15,357 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-11 23:00:15,357 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-11 23:00:15,361 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
+2015-06-12 09:50:45,998 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-12 09:50:46,029 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\main\resources
+2015-06-12 09:50:46,029 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-12 09:50:46,029 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell7447\workspacetest\BubbleBee\src\test\resources
